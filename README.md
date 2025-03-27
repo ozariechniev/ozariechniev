@@ -55,14 +55,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozariechniev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozariechniev&theme=dark&show_icons=true&hide_border=false&count_private=true" width="450" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ozariechniev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozariechniev&theme=dark&show_icons=true&hide_border=false&layout=compact" width="450" /> 
 </div>
 
 ###
 
-<div align="left">
+<div align="left"">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ozariechniev.ozariechniev&"  />
 </div>
 
