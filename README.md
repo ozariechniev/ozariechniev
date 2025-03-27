@@ -56,6 +56,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozariechniev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ozariechniev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /> 
 </div>
 
 ###
