@@ -50,6 +50,10 @@
 
 ###
 
+<h3 align="left">⚡ Latest projects</h3>
+
+- [Next.js BetterAuth Integration](https://github.com/ozariechniev/next-js-better-auth)
+
 <h3 align="left">🔥  Github Stats</h3>
 
 ###
