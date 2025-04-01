@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a front-end developer from Germany</p>
+<p align="left">Front-end developer | Adobe Commerce (Magento 2) | React | Typescript | TailwindCSS</p>
 
 ###
 
@@ -22,11 +22,11 @@
   </a>
 </div>
 
-###
+----
 
 <h3 align="left">🛠  Technologies</h3>
 
-###
+----
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -48,15 +48,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+----
 
 <h3 align="left">⚡ Latest projects</h3>
 
 - [Next.js BetterAuth Integration](https://github.com/ozariechniev/next-js-better-auth)
 
-<h3 align="left">🔥  Github Stats</h3>
+----
 
-###
+<h3 align="left">🔥  Github Stats</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ozariechniev&theme=dark&show_icons=true&hide_border=false&count_private=true" width="450" />
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozariechniev&theme=dark&show_icons=true&hide_border=false&layout=compact" width="450" /> 
 </div>
 
-###
+----
 
 <div align="left"">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ozariechniev.ozariechniev&"  />
