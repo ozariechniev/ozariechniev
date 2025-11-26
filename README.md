@@ -53,7 +53,6 @@
 <h3 align="left">⚡ Latest projects</h3>
 
 - [px-to-rem-converter](https://github.com/ozariechniev/px-to-rem-converter)
-- [Next.js BetterAuth Integration](https://github.com/ozariechniev/next-js-better-auth)
 
 ----
 
